@@ -1,10 +1,10 @@
 # NASA_LOST_DATA
-NASA SPACE APPS CHALLANGE '19
+NASA Spaceapps challenge 2019
 
 
 
 
-THE CHALLANGE
+The Challenge (Chasers of The Lost Data)
 
 Help find ways to improve the performance of machine learning and predictive models by filling in gaps in the datasets prior to model training.
 
